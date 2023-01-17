@@ -1,0 +1,7 @@
+main:
+  - title: "Ideas"
+    url: /ideas/
+  - title: "Projects"
+    url: /projects/
+  - title: "Teams"
+    url: /teams/
